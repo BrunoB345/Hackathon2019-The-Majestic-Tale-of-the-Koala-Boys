@@ -6,9 +6,9 @@ Durante a prova, existirão três _checkpoints_ onde a equipa deverá obrigatori
 
 
 
-# The Majestic Tale of the Koala Boys - REAL LEAK
+# The Majestic Tale of the Koala Boys - TODAYHUB
 
-Vamos desenvolver uma aplicação mobile, que através de conteúdo selecionado, todos os dias indica artigos curtos e de fácil leitura, para combater a falta de cultura da sociedade nos dias de que correm. E que de alguma maneira combata as "Fake News", criando awareness.
+Vamos desenvolver uma aplicação mobile que facilita a procura de atividades de lazer tendo em conta varios fatores...
 
 ### João Martins
 ### João Santos
