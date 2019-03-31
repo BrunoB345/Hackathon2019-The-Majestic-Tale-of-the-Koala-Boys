@@ -68,7 +68,6 @@ public class EventActivity extends AppCompatActivity {
         intent.putExtra("name", name);
         intent.putExtra("date", date);
         intent.putExtra("hour", hour);
-        intent.putExtra("location", location);
         startActivity(intent);
     }
 
